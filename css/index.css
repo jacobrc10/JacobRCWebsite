@@ -1,0 +1,10 @@
+.carouselImage {
+  max-width: 1024px;
+  object-fit: cover;
+  align-self: center;
+}
+
+.carouselContainer {
+  max-width: 1024px;
+  margin: auto;
+}
