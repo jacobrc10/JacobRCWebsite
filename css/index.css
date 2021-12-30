@@ -1,10 +1,9 @@
 .carouselImage {
-  max-width: 1024px;
+  max-height: 500px;
   object-fit: cover;
   align-self: center;
 }
 
-.carouselContainer {
-  max-width: 1024px;
-  margin: auto;
+.myIcon {
+  border-radius: 50%;
 }
