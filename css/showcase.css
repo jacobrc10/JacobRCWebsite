@@ -1,0 +1,21 @@
+.myIcon {
+  border-radius: 50%;
+}
+
+#showcase1 {
+  background-image: url(/images/tempCover.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#showcase2 {
+  background-image: url(/images/tempCover2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#showcase3 {
+  background-image: url(/images/tempCover3.jpg);
+  background-position: center;
+  background-size: cover;
+}
